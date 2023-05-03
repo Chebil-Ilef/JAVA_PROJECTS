@@ -1,0 +1,1 @@
+Exercice: a window with 6 system properties
